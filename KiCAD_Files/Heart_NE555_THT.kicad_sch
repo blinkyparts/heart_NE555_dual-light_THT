@@ -4270,6 +4270,7 @@
 	)
 	(label "Common-R"
 		(at 284.48 149.86 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7216,7 +7217,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6e7de589-99bc-446c-8998-176f449fcf11")
-		(property "Reference" "D27"
+		(property "Reference" "D2"
 			(at 142.24 106.68 0)
 			(effects
 				(font
@@ -7286,7 +7287,7 @@
 		(instances
 			(project ""
 				(path "/6cfdc447-c3b5-4bd5-b994-af4ade29c86d"
-					(reference "D27")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -8469,7 +8470,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e0b07be2-bce6-4af3-b378-7a758d5bca3f")
-		(property "Reference" "BT2"
+		(property "Reference" "BT1"
 			(at 44.45 37.5284 0)
 			(effects
 				(font
@@ -8523,7 +8524,7 @@
 		(instances
 			(project ""
 				(path "/6cfdc447-c3b5-4bd5-b994-af4ade29c86d"
-					(reference "BT2")
+					(reference "BT1")
 					(unit 1)
 				)
 			)
