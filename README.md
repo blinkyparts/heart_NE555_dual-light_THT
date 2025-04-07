@@ -18,10 +18,9 @@ You can purchase the Heart NE555 in our online store:
 |-------------------------------|:------:|:--------:|
 | LED 3mm red	                | D3-D26 |    24    |
 | Capacitor 10nF            	|   C1   |     1    |
-| Capacitor 100n            	|  C3-C5 |     2    |
+| Capacitor 100n            	|  C3-C5 |     3    |
 | Capacitor 1uF			|   C2	 |     1    |
 | Diode 1N4007              	|  D1-D2 |     2    |
-| Push Button               	|   SW1  |     1    |
 | Resistor 1k          		|   R1   |     1    |
 | Resistor 100k        		|   R2   |     1    |
 | Resistor 47R         		|   R3   |     1    |
